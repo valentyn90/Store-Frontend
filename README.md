@@ -51,11 +51,6 @@ Vue Storefront solves a set of key business challenges from the world of the sho
 
 ![Vue Storefront - Headless Architecture](https://user-images.githubusercontent.com/1626923/137323687-c63cd6fa-a018-4491-bea7-1802649499ca.jpg)
 
-## Contributing
-
-If you like the ideas behind Vue Storefront and want to become a contributor - join our [Discord server](https://discord.vuestorefront.io), check the [list of the active issues](https://github.com/vuestorefront/vue-storefront/issues) or contact us directly via contributors@vuestorefront.io.
-
-If you have discovered a 🐜 or have feature suggestion, feel free to create an issue on Github.
 
 ## Support us!
 
